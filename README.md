@@ -3,11 +3,14 @@
 I’m documenting my AWS progress with practical PDFs and screenshots.
 
 ## 📅 Timeline
-- **Day 1:** Started AWS course — You can read aout basics of aws.
+   **Started AWS course**
+- Basic notes  — You can read aout basics notes or pre-warmup of aws.
   
-- **Day 2:** Launched EC2 — Practical : I have launched my first EC2 instance,You can get information/Idea about the
-                                        How to Launch a EC2 instance in AWS. 
-
+-  Launched EC2 — Practical : I have launched my first EC2 instance,You can get information/Idea about the
+                                        How to Launch a EC2 instance in AWS.
+-  Created target group - parctical : I has created Target group for my EC2 instaces .
+  
+-  Launched Load-balancer - Practical : I launched a load-balancer using target groups for EC-2 instance.
 
 > I’ll keep adding new days as I learn.
 # AWS-Learning-Journey
