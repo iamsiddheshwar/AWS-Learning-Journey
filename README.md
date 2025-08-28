@@ -8,6 +8,9 @@ I’m documenting my AWS progress with practical PDFs and screenshots.
   
 -  Launched EC2 — Practical : I have launched my first EC2 instance,You can get information/Idea about the
                                         How to Launch a EC2 instance in AWS.
+
+- Add rules in security group - Practical : I added a rule (HTTP;port=80;IP=My_ip ) in defalt security group to an instance.
+
 -  Created target group - parctical : I has created Target group for my EC2 instaces .
   
 -  Launched Load-balancer - Practical : I launched a load-balancer using target groups for EC-2 instance.
