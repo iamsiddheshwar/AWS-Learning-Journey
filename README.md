@@ -15,6 +15,8 @@ I’m documenting my AWS progress with practical PDFs and screenshots.
   
 -  Launched Load-balancer - Practical : I launched a load-balancer using target groups for EC-2 instance.
 
-> I’ll keep adding new days as I learn.
+- All My learnings are well documented in folders you can cheak there.
+
+
 # AWS-Learning-Journey
-Daily AWS hands-on notes with PDFs, screenshots, and steps.
+Daily AWS hands-on notes with PDFs, screenshots, and steps and Project document pdf"s.
