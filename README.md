@@ -15,7 +15,8 @@ I’m documenting my AWS progress with practical PDFs and screenshots.
   
 -  Launched Load-balancer - Practical : I launched a load-balancer using target groups for EC-2 instance.
 
-- All My learnings are well documented in folders you can cheak there.
+- All My learnings are well documented in folders you can learn from there.
+  
 
 
 # AWS-Learning-Journey
